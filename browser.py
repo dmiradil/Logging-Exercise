@@ -1,7 +1,7 @@
 ### Python App that generates a report
 ### that ranks the top browsers and their versions in descending order
 ### Info: this is a vanilla Python3 app, it does not require any dependencies or imports
-### to run: '$ python3 main.py'
+### to run: '$ python3 browser.py'
 
 log_file = './lb.log'
 browsers = {'Safari': [], 'Chrome': [], 'Firefox': [], 'Trident': []}
